@@ -1,0 +1,44 @@
+CREATE DIRECTORY: testDir
+CREATE FILE: testDir/testFile.txt
+LIST FILES IN DIRECTORY: testDir
+COPY FILE: testDir/testFile.txt TO testDir/copiedFile.txt
+RENAME FILE: testDir/copiedFile.txt TO testDir/renamedFile.txt
+DELETE FILE: testDir/renamedFile.txt
+DELETE FILE: testDir\testFile.txt
+DELETE DIRECTORY: testDir
+CREATE DIRECTORY: testDir
+CREATE FILE: testDir/testFile.txt
+LIST FILES IN DIRECTORY: testDir
+COPY FILE: testDir/testFile.txt TO testDir/copiedFile.txt
+RENAME FILE: testDir/copiedFile.txt TO testDir/renamedFile.txt
+LIST FILES IN DIRECTORY: testDir
+DELETE FILE: testDir/renamedFile.txt
+DELETE FILE: testDir\testFile.txt
+DELETE DIRECTORY: testDir
+CREATE DIRECTORY: testDir
+CREATE FILE: testDir/testFile.txt
+LIST FILES IN DIRECTORY: testDir
+COPY FILE: testDir/testFile.txt TO testDir/copiedFile.txt
+RENAME FILE: testDir/copiedFile.txt TO testDir/renamedFile.txt
+LIST FILES IN DIRECTORY: testDir
+DELETE FILE: testDir/renamedFile.txt
+DELETE FILE: testDir\testFile.txt
+DELETE DIRECTORY: testDir
+CREATE DIRECTORY: testDir
+CREATE FILE: testDir/testFile.txt
+LIST FILES IN DIRECTORY: testDir
+COPY FILE: testDir/testFile.txt TO testDir/copiedFile.txt
+RENAME FILE: testDir/copiedFile.txt TO testDir/renamedFile.txt
+LIST FILES IN DIRECTORY: testDir
+DELETE FILE: testDir/renamedFile.txt
+DELETE FILE: testDir\testFile.txt
+DELETE DIRECTORY: testDir
+CREATE DIRECTORY: testDir
+CREATE FILE: testDir/testFile.txt
+LIST FILES IN DIRECTORY: testDir
+COPY FILE: testDir/testFile.txt TO testDir/copiedFile.txt
+RENAME FILE: testDir/copiedFile.txt TO testDir/renamedFile.txt
+LIST FILES IN DIRECTORY: testDir
+DELETE FILE: testDir/renamedFile.txt
+DELETE FILE: testDir\testFile.txt
+DELETE DIRECTORY: testDir
